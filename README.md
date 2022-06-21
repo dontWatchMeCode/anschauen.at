@@ -14,3 +14,4 @@ Can be viewed on [Replit](https://replit.com/@OnlyPain/anschauenat).
 - [ ] seo: sitemap & meta description
 - [ ] images in proper format & compress
 - [ ] accessibility: alt, ...
+- [x] secund layout for books (img right)
