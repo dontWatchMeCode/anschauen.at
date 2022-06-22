@@ -11,7 +11,7 @@ Can be viewed on [Replit](https://replit.com/@OnlyPain/anschauenat).
 ## To-Do
 
 - [ ] preview link on mobile not intuitive
-- [ ] seo: sitemap & meta description
+- [x] seo: sitemap & meta description
 - [ ] images in proper format & compress
 - [ ] accessibility: alt, ...
 - [x] secund layout for books (img right)
