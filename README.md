@@ -2,7 +2,7 @@
 
 Simple Website to showcase books.
 
-Can be viewed on [Replit](https://replit.com/@OnlyPain/anschauenat).
+Can be viewed on [railway](https://anschauenat-production.up.railway.app).
 
 ## Libraries / Frameworks
 
