@@ -2,7 +2,7 @@
 
 Simple Website to showcase books.
 
-Can be viewed on [here](https://static.opctrl.xyz/anschauen.at/).
+Can be viewed on [here](https://anschauen-at.up.railway.app).
 
 ## Libraries / Frameworks
 
