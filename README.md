@@ -2,7 +2,7 @@
 
 Simple Website to showcase books.
 
-Can be viewed on [here](https://anschauen-at.up.railway.app).
+Can be viewed on [here](https://m-gschwandtner.github.io/anschauen.at/).
 
 ## Libraries / Frameworks
 
